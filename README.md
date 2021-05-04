@@ -1,6 +1,6 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome ! </h1>
-==========================================================================================================================================
+
 My name is Samuel Mariano Belo. I am a backend developer
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SamuelB7&repo=SamuelB7&countColorcountColor)
