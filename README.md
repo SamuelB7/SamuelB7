@@ -3,6 +3,12 @@
 
 My name is Samuel Mariano Belo. I am a backend developer
 
+### Connect with me
+
+<p aling="left">
+
+<a href="https://www.linkedin.com/in/samuelb7/"> <img src="https://img.shields.io/badge/-LinkedIn-007785?style=flat&logo=Linkedin&logoColor=white"/></a>
+
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SamuelB7&repo=SamuelB7&countColorcountColor)
 
 ### Languages & Tools 🛠  
