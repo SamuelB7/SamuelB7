@@ -11,7 +11,6 @@
 
 ### Academic education
 <ul>
-    <li>Bachelor's degree in Software Engineering (in progress)</li>
     <li>Bachelor's degree in business management</li>
 </ul>
 
