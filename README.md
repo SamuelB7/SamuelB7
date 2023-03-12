@@ -11,7 +11,7 @@
 ### Frameworks/Libs:
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 
-### Connect with me
+# Connect with me
 
 <p aling="left">
 
@@ -19,10 +19,10 @@
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SamuelB7&repo=SamuelB7&countColorcountColor)
 
-### Languages & Tools 🛠  
+# Languages & Tools 🛠  
 
 
-### Analytics ⚙️
+## Analytics ⚙️
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelB7&layout=compact&count_private=true)
 
