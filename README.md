@@ -26,6 +26,6 @@
 
 ![Github Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SamuelB7&layout=compact&count_private=true)
 
-![Github Statistics](https://github-readme-stats.vercel-sigma-five.app/api/?username=SamuelB7&count_private=true&show_icons=true)
+![Github Statistics](https://github-readme-stats-sigma-five.vercel.app/api/?username=SamuelB7&count_private=true&show_icons=true)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=SamuelB7&hide_border=true)
